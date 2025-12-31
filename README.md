@@ -1,4 +1,4 @@
-# machine_learning
+# Machine Learning
 
 upgrad machine learning assignment
 
