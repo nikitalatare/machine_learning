@@ -1,4 +1,4 @@
-# Advanced Regression
+# House Price Prediction using Ridge & Lasso Regression
 > This assignment contains two parts. Part-I is a programming assignment and Part-II is subjective question based on programming  
 
 ## Table of Contents
