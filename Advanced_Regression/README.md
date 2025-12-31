@@ -3,7 +3,6 @@
 
 ## Table of Contents
 * [Part-I Problem Statement](#Part-I Problem Statement)
-* [Part-II Subjective Questions](#Part-II Subjective Questions)
 * [Conclusions](#conclusions)
 * [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
@@ -22,14 +21,11 @@ How well those variables describe the price of a house.
 Also, determine the optimal value of lambda for ridge and lasso regression.
 
 
-## Part-II Subjective Questions
-
 ## Conclusions
 Major Factor affecting Housing prices
 GrLivArea : Above grade (ground) living area square feet
 OverallQual: Rates the overall material and finish of the house
 TotalBsmtSF: Total square feet of the bsement area
-
 
 
 ## Technologies Used
@@ -39,7 +35,6 @@ seaborn
 numpy
 sckitlearn
 statsmodel
-
 
 
 ## Contact
